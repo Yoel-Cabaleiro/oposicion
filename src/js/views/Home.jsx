@@ -12,8 +12,8 @@ export const Home = () => {
     return (
         <div className="container">
             <div className="row opciones col-12">
-                <button onClick={() => navigate("/practica")} className="col-sm-10 col-md-4 col-xl-3 home-button">Práctica</button>
-                <button onClick={() => navigate("/examen")} className="col-sm-10 col-md-4 col-xl-3 home-button">Examen</button>
+                <button onClick={() => navigate("/oposicion/practica")} className="col-sm-10 col-md-4 col-xl-3 home-button">Práctica</button>
+                <button onClick={() => navigate("/oposicion/examen")} className="col-sm-10 col-md-4 col-xl-3 home-button">Examen</button>
             </div>
 
         </div>
