@@ -5,7 +5,7 @@ import "../../home.css"
 
 export const Navbar = () => {
 	return (
-		<nav className="navbar navbar-light bg-light mb-3">
+		<nav className="navbar navbar-light mb-3">
 			<Link to="/oposicion">
 				<span className="navbar-brand mb-0 ms-4 h1">Inicio</span>
 			</Link>
