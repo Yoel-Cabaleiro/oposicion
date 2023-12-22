@@ -2,7 +2,7 @@ import React from "react";
 import { Context } from "../store/appContext";
 import { Link, useNavigate } from "react-router-dom";
 
-import "../../styles/home.css"
+import "../../home.css"
 
 
 export const Home = () => {
