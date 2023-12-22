@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/oposicion/static/css/main.dacd0c98.css",
+    "main.css": "/oposicion/static/css/main.c3324026.css",
     "main.js": "/oposicion/static/js/main.0b35924a.js",
     "index.html": "/oposicion/index.html",
-    "main.dacd0c98.css.map": "/oposicion/static/css/main.dacd0c98.css.map",
+    "main.c3324026.css.map": "/oposicion/static/css/main.c3324026.css.map",
     "main.0b35924a.js.map": "/oposicion/static/js/main.0b35924a.js.map"
   },
   "entrypoints": [
-    "static/css/main.dacd0c98.css",
+    "static/css/main.c3324026.css",
     "static/js/main.0b35924a.js"
   ]
 }
